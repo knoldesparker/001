@@ -23,8 +23,8 @@ hs_err_pid*
 
 # InttelliJ
 .idea/
+*.idea/
 .idea/*
 .idea\
 .idea\*
-
 *.xml

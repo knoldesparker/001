@@ -5,6 +5,8 @@ public class main {
         for (int i = 1; i < 11  ; i++) {
             System.out.println(i);
             // ajwndwjadnkjawdnakjdwjdawndwadjkwa
+            //Hvorfor er det stadig et problem med worksapce wtf
+            
         }
     }
 }
